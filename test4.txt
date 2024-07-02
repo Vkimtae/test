@@ -1,1 +1,2 @@
-This is a new file that has been added to feature A branch 
+This is a new file that has been added to feature A branch.
+Need to add some more detials in this branch
