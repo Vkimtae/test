@@ -1,2 +1,3 @@
 Now we have added this file to feature B to check the functionality.
-let see how it works
+let see how it works.
+Now let make one another change here
